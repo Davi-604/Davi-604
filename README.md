@@ -1,7 +1,7 @@
 # Hi, I'm Davi 
 #### A young progamation student by <a href="https://lp.b7web.com.br/fullstack">B7 web</a> from Brazil 
 
-## I developed projects with: 
+## I develop projects with the following technologies 
 <div style="display: inline_block">
     <img align= "center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img align= "center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
