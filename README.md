@@ -1,5 +1,5 @@
 # Hi, I'm Davi 
-#### A young full-stack developer from Brazil 
+#### A young full-stack developer from Brazil  
 
 ## I develop projects with the following technologies 
 <div style="display: inline_block">
