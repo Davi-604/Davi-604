@@ -26,4 +26,4 @@
 </div>
 <br/><br/>
 
-- --> Access my <a href='www.linkedin.com/in/davicarvalhodev604' target='_blank'><img align= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"></a> 
+- --> Access my <a href='https://www.linkedin.com/in/davicarvalhodev604/' target='_blank'><img align= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"></a> 
