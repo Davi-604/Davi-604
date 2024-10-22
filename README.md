@@ -24,3 +24,6 @@
     Right now, I'm studying 
     <img align= "center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
+<br/><br/>
+
+- --> Access my <a href='www.linkedin.com/in/davicarvalhodev604' target='_blank'><img align= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"></a> 
